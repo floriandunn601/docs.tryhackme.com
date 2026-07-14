@@ -1,6 +1,6 @@
 {
   "name": "docs.tryhackme.com",
-  "version": "0.1.20",
+  "version": "0.1.21",
   "description": "TryHackMe documentation site source code",
   "main": "src/index.js",
   "scripts": {
